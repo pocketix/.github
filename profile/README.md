@@ -52,14 +52,15 @@ All projects in the Pocketix Ecosystem are licensed under the MIT License. See i
 - 📈 V2 Interpret, Editor and RIoT — new core backend runtime written in Go and offering more robust environment with more capabilities like KPIs.  
 
 ## Leadership
-- [Petr John](https://github.com/xjohnp00): PhD student and the leader of the Pocketix project. Petr is focused on the development and continuous improvement of the Pocketix ecosystem, primarily in visual programming for IoT and other optimizations.
+- [Petr John](https://github.com/xjohnp00) (@xjohnp00): PhD student and the leader of the Pocketix project. Petr is focused on the development and continuous improvement of the Pocketix ecosystem, primarily in visual programming for IoT and other optimizations.
 
 ## Contributors
 The Pocketix project has been supported by a variety of contributors and students, including:
-- [Lukáš Podvojský](https://github.com/podvojsky) — Responsible for the first iteration of V2 Editor and Language
-- [Michal Bureš](https://github.com/MichalBures-OG) — Responsible for the first iteration of RIoT environment (original version available under [RIoT-IS](https://github.com/MichalBures-OG/RIoT-IS))
+- [Lukáš Podvojský](https://github.com/podvojsky) (@podvojsky) — Responsible for the first iteration of V2 Editor and Language
+- [Michal Bureš](https://github.com/MichalBures-OG) (@MichalBures-OG) — Responsible for the first iteration of RIoT environment (original version available under [RIoT-IS](https://github.com/MichalBures-OG/RIoT-IS))
+- [Matúš Tábi](https://github.com/MatusTabi) (@MatusTabi) — Responsible for the first iteration of `pocketix-go` interpret (available under [pocketix-go](https://github.com/pocketix/pocketix-go))
 
 Their dedication, collaboration, and expertise have helped shape the Pocketix ecosystem into a robust tool for smart home automation and IoT management.
 
 ## Mentoring
-- [Jiří Hynek](https://github.com/jirka): PhD supervisor at BUT FIT
+- [Jiří Hynek](https://github.com/jirka) (@Jirka): PhD supervisor at BUT FIT
