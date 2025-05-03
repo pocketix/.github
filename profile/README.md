@@ -59,6 +59,10 @@ The Pocketix project has been supported by a variety of contributors and student
 - [Lukáš Podvojský](https://github.com/podvojsky) (@podvojsky) — Responsible for the first iteration of V2 Editor and Language
 - [Michal Bureš](https://github.com/MichalBures-OG) (@MichalBures-OG) — Responsible for the first iteration of RIoT environment (original version available under [RIoT-IS](https://github.com/MichalBures-OG/RIoT-IS))
 - [Matúš Tábi](https://github.com/MatusTabi) (@MatusTabi) — Responsible for the first iteration of `pocketix-go` interpret (available under [pocketix-go](https://github.com/pocketix/pocketix-go))
+- [Marko Olešák](https://github.com/pukakuka) (@pukauka) — Responsible for the development of the RIoT CMS-style user dashboard, including device and group detail views
+- [Marek Joukl](https://github.com/marekjoukl) (@marekjoukl) — Responsible for the redesign of the frontend application into a responsive Progressive Web App (PWA)
+- [Ivan Chodák](https://github.com/IvanIV100) (@IvanIV100) — Responsible for the first iteration of reusable end user procedures in `vpl-for-things` and the integration into RIoT
+- [Tomáš Fišer](https://github.com/thomson191919) (@thomson191919) — Currently working on the digital twin concept for RIoT and Pocketix debuggers and editors
 
 Their dedication, collaboration, and expertise have helped shape the Pocketix ecosystem into a robust tool for smart home automation and IoT management.
 
