@@ -4,6 +4,10 @@ Welcome to the Pocketix Ecosystem — a suite of tools and libraries designed fo
 
 ## Related Projects
 - 🔗 [vpl-for-things](https://github.com/pocketix/vpl-for-things) — WIP version of new editor built in Lit compatible with Pocketix v2 language
+- 🔗 [pocketix-go](https://github.com/pocketix/pocketix-go) — WIP version of a refference implementaion of Pocketix v2 language interpreter
+- 🔗 [riot](https://github.com/pocketix/riot) — WIP Version of a realtime IoT SCADA system providing Pocketix v2 support 
+
+## Related Legacy Projects
 - 🔗 [pocketix-react](https://github.com/pocketix/pocketix-react) — React version of the editor
 - 🔗 [pocketixng](https://github.com/pocketix/pocketixng) — Angular-based scripting editor for the same ecosystem
 - 🔗 [Pocketix Node Interpreter](https://github.com/pocketix/pocketix-node) — Executes automation scripts created with Pocketix tools
